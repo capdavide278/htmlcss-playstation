@@ -30,6 +30,17 @@ header{
 
 /* main  */
 main{
-    padding-top: 97px;
+    padding-top: 100px;
 }
+
+#returnal{
+    object-fit: cover;
+    width: 100%;
+}
+
+/* immagini al 100% */
+img{
+    width: 100%;
+}
+
 
