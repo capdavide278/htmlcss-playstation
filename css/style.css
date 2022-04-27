@@ -19,8 +19,20 @@ header{
     /* height: 50px; */
 }
 
+.btn-accedi{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+#lens{
+    width: 50px;
+    margin-bottom: 15px;
+}
+
 .logo{
-    width: 80px;
+    width: 50px;
     margin: 15px 30px;
 }
 
@@ -30,7 +42,7 @@ header{
 
 /* main  */
 main{
-    padding-top: 100px;
+    padding-top: 118px;
 }
 
 #returnal{
@@ -41,6 +53,16 @@ main{
 /* immagini al 100% */
 img{
     width: 100%;
+    margin-top: 20px;
 }
 
+.bordo-rotondo{
+    border-radius: 10px;
+    border: 2px solid blue;
+    padding: 3px;
+}
+
+.bordo{
+    border-radius: 10px;
+}   
 
