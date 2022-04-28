@@ -45,6 +45,11 @@ main{
     padding-top: 118px;
 }
 
+/* returnal */
+#parte-returnal{
+    margin-bottom: 20px;
+}
+
 .copertina{
     object-fit: cover;
     width: 100%;
@@ -53,7 +58,7 @@ main{
 /* immagini al 100% */
 img{
     width: 100%;
-    margin-top: 20px;
+    /* margin-top: 20px; */
 }
 
 .bordo-rotondo{
@@ -90,10 +95,23 @@ img{
 
 .bordo-sotto{
     border-bottom: 2px solid blue;
+    padding-bottom: 120px;
 }
 
 .margin{
+    text-align: center;
+    font-size: 25px;
     width: 80%;
+}
+
+.spazio{
+    display: flex;
+    justify-content: space-around;
+}
+
+.accapo{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 /* it takes two */
@@ -127,13 +145,13 @@ img{
 #ps-plus{
     background-color: gray;
     /* height: 500px; */
-    margin-bottom: 50px;
-    padding-bottom: 15px;
+    /* margin-bottom: 50px; */
+    /* padding-bottom: 15px; */
 }
 
 .play-plus{
     text-align: left;
-    margin-top: 25px;
+    margin-top: 28%;
 }
 
 .logo-ps-plus{
@@ -159,7 +177,10 @@ img{
 
 .play-now{
     color: white;
+    margin-top: 28%;
 }
+
+
 
 /* social */
 #social{
@@ -170,7 +191,7 @@ img{
 /* footer */
 footer{
     background-color: blue;
-    height: 800px;
+    /* height: 800px; */
     color: white;
 }
 
