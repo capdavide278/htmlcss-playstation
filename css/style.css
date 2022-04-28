@@ -71,6 +71,10 @@ img{
     border-radius: 10px;
 }   
 
+.bordo-sopra{
+    margin-top: 10px;
+}
+
 /* section playnolimits */
 #play-nolimits{
     margin-top: 40px;
@@ -80,9 +84,11 @@ img{
     text-align: center;
 }
 
-#console-playstation{
-    text-align: left;
-    margin-top: 35px;
+.console-playstation{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    /* margin-top: 35px; */
 }
 
 .btn-blue{
