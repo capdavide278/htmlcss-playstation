@@ -71,7 +71,7 @@ img{
     margin-top: 40px;
 }
 
-#limits{
+.limits{
     text-align: center;
 }
 
@@ -86,7 +86,6 @@ img{
     padding: 10px;
     margin-top: 20px;
     border-radius: 20px;
-
 }
 
 .bordo-sotto{
@@ -121,4 +120,51 @@ img{
 /* esplora play 5 */
 #esplora{
     margin-top: 25px;
+    margin-bottom: 30px;
 }
+
+/* psplus */
+#ps-plus{
+    background-color: gray;
+    /* height: 500px; */
+    margin-bottom: 50px;
+    padding-bottom: 15px;
+}
+
+.play-plus{
+    text-align: left;
+    margin-top: 25px;
+}
+
+.logo-ps-plus{
+    width: 50%;
+}
+
+.btn-gray{
+    background-color: rgba(228, 218, 206, 0.815);
+    padding: 7px;
+    border-radius: 20px;
+}
+
+/* nuovi sconti */
+#nuovi-sconti{
+    margin: 25px 0;
+}
+
+/* ps now */
+#ps-now{
+    background-color: rgb(20, 20, 165);
+    padding-bottom: 25px;
+}
+
+.play-now{
+    color: white;
+}
+
+/* social */
+#social{
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* footer */
