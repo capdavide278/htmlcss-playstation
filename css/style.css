@@ -168,3 +168,32 @@ img{
 }
 
 /* footer */
+footer{
+    background-color: blue;
+    height: 800px;
+    color: white;
+}
+
+.logo-mondo{
+    width: 20px;
+    margin: 15px 30px;
+    margin-right: 15px;
+}
+
+#paese{
+    font-size: 10px;
+}
+
+#lista-footer li{
+    list-style-type: none;
+}
+
+#lista-footer li a {
+    text-decoration: none;
+    color: white;
+}
+
+.logo-sonyps{
+    width: 100px;
+    margin: 15px 30px;
+}
