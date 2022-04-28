@@ -100,7 +100,7 @@ img{
 
 .margin{
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     width: 80%;
 }
 
@@ -152,6 +152,7 @@ img{
 .play-plus{
     text-align: left;
     margin-top: 28%;
+    padding-bottom: 10px;
 }
 
 .logo-ps-plus{
@@ -205,11 +206,15 @@ footer{
     font-size: 10px;
 }
 
-#lista-footer li{
+.lista-footer{
+    margin-top: 10px;
+}
+
+.lista-footer li{
     list-style-type: none;
 }
 
-#lista-footer li a {
+.lista-footer li a {
     text-decoration: none;
     color: white;
 }
@@ -217,4 +222,24 @@ footer{
 .logo-sonyps{
     width: 100px;
     margin: 15px 30px;
+}
+
+/* media query */
+@media screen and (max-width: 768px){
+    .sparisce{
+        display: none;
+    }
+
+    .play-now{
+        margin-top: 5%;
+    }
+
+    .play-plus{
+        margin-top: 5%;
+    }
+
+    .bordo-sotto{
+        padding-bottom: 5px;
+    }
+
 }
