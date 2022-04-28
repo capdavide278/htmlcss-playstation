@@ -80,7 +80,7 @@ img{
     margin-top: 35px;
 }
 
-#maggiori-informazioni{
+.btn-blue{
     background-color: rgb(0, 0, 255);
     color: white;
     padding: 10px;
@@ -95,7 +95,6 @@ img{
 
 .margin{
     width: 80%;
-    margin-left: ;
 }
 
 /* it takes two */
@@ -112,8 +111,14 @@ img{
     color: white;
     padding-top: 15px;
     padding-left: 15px;
+    padding-bottom: 15px;
 }
 
 .titolo{
     font-size: 25px;
+}
+
+/* esplora play 5 */
+#esplora{
+    margin-top: 25px;
 }
