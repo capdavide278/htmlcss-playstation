@@ -66,3 +66,25 @@ img{
     border-radius: 10px;
 }   
 
+/* section playnolimits */
+#play-nolimits{
+    margin-top: 40px;
+}
+
+#limits{
+    text-align: center;
+}
+
+#console-playstation{
+    text-align: left;
+    margin-top: 35px;
+}
+
+#maggiori-informazioni{
+    background-color: rgb(0, 0, 255);
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 20px;
+    
+}
